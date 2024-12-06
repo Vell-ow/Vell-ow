@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vell-ow
 - 🌱 I’m fluent in C++, Python, Assembly, HDL, and VM Code.
 - 💞️ I’m looking to collaborate on some implementation hotfixes, especially with my Assembler.
-- 📫 How to reach me ... You can email me at coviello_andrew@yahoo.com, or find my LinkedIn at https://www.linkedin.com/in/andrew-coviello-61b015259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- 📫 How to reach me ... You can email me at coviello_andrew@yahoo.com, or find my LinkedIn at https://shorturl.at/LYmqf
 
 <!---
 Vell-ow/Vell-ow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
