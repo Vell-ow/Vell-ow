@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vell-ow
 - 🌱 I’m fluent in C++, Python, Assembly, HDL, and VM Code.
-- 💞️ I’m looking to collaborate on some implementation hotfixes, especially with my Assembler.
+- 💞️ I’m always looking to advance in the industry and hear about what you have to bring to this world.
 - 📫 How to reach me ... You can email me at coviello_andrew@yahoo.com, or find my LinkedIn at https://shorturl.at/LYmqf
 
 <!---
